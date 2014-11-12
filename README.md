@@ -1,4 +1,4 @@
 MIM-made-simple
 ===============
 
-Just anothe repository to start off with
+Just another repository to start off with
